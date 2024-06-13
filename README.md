@@ -1,5 +1,9 @@
 # HR-dashboard-MYSQL-PowerBI
 
+![Screenshot 2024-06-13 160031](https://github.com/SamuelVincnet67/HR-dashboard-MYSQL-PowerBI/assets/123567789/8ca3a319-4f56-4dfe-af6e-eecd969261e6)
+![Screenshot 2024-06-13 160047](https://github.com/SamuelVincnet67/HR-dashboard-MYSQL-PowerBI/assets/123567789/dbb973f7-8962-415e-887f-dcc462976624)
+
+
 ## Data Used
 
 **Data** - HR Data with over 22000 rows from the year 2000 to 2020.
