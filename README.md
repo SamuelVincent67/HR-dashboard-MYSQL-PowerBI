@@ -36,7 +36,10 @@
 - The net change in employees has increased over the years.
 - The average tenure for each department is about 8 years and Sales department having the highest average tenure with 9 years and Support, Legal, Training and Product Management with low average tenure of 7 years.
 
+## Limitations
 
+- Some records had negative ages and those were excluded during querying (967 records), ages used were 18 years and above.
+- Some termdates were far into future and were not included in the analysis (1599 records). The only termdates used were those less than or equal to the current date. 
 
 
 
